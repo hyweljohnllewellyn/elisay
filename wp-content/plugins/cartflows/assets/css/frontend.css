@@ -3,11 +3,11 @@
 
 @font-face {
   font-family: 'cartflows-icon';
-  src:  url('https://mysterious-lion.netlify.app/wp-content/plugins/cartflows/assets/fonts/cartflows-icon.eot?81m15v');
-  src:  url('https://mysterious-lion.netlify.app/wp-content/plugins/cartflows/assets/fonts/cartflows-icon.eot?81m15v#iefix') format('embedded-opentype'),
-    url('https://mysterious-lion.netlify.app/wp-content/plugins/cartflows/assets/fonts/cartflows-icon.ttf?81m15v') format('truetype'),
-    url('https://mysterious-lion.netlify.app/wp-content/plugins/cartflows/assets/fonts/cartflows-icon.woff?81m15v') format('woff'),
-    url('https://mysterious-lion.netlify.app/wp-content/plugins/cartflows/assets/fonts/cartflows-icon.svg?81m15v#cartflows-icon') format('svg');
+  src:  url('https://elisay.netlify.app/wp-content/plugins/cartflows/assets/fonts/cartflows-icon.eot?81m15v');
+  src:  url('https://elisay.netlify.app/wp-content/plugins/cartflows/assets/fonts/cartflows-icon.eot?81m15v#iefix') format('embedded-opentype'),
+    url('https://elisay.netlify.app/wp-content/plugins/cartflows/assets/fonts/cartflows-icon.ttf?81m15v') format('truetype'),
+    url('https://elisay.netlify.app/wp-content/plugins/cartflows/assets/fonts/cartflows-icon.woff?81m15v') format('woff'),
+    url('https://elisay.netlify.app/wp-content/plugins/cartflows/assets/fonts/cartflows-icon.svg?81m15v#cartflows-icon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
